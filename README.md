@@ -4,13 +4,13 @@
 ### Contract Address.
 
 INK Token Address.
-> 0x43574f29ddc814906b69c49c5b80fba6d7694c0f
+> 0xf4c90e18727c5c76499ea6369c856a6d61d3e92e
 
 XCPlugin Address.
-> 0x92d6dcdf36fa6c7ba218c75531e55768621e1cb6
+> 0x15782cc68d841416f73e8f352f27cc1bc5e76e11
 
 XC Address.
-> 0xde534956e14cbab6d6aeb04168c9713f38107aea
+> 0x28f1135e43e61ebf303c8f1f9beef4f6a00dcb34
 
 ### Contract ABI.
 
@@ -44,13 +44,13 @@ XC Address.
 ### Contract Address.
 
 INK Token Address.
-> 0x43574f29ddc814906b69c49c5b80fba6d7694c0f
+> fe59cbc1704e89a698571413a81f0de9d8f00c69
 
 XCPlugin Address.
-> 0x92d6dcdf36fa6c7ba218c75531e55768621e1cb6
+> e6d2f62bb9d93ca919a35a32237ce877f132c84d
 
 XC Address.
-> 0xde534956e14cbab6d6aeb04168c9713f38107aea
+> 4143d22694866c8ce31b73a8911bba72ce100867
 
 ### Contract ABI.
 
