@@ -57,7 +57,7 @@ contract XC is XCInterface {
         admin.compareSymbol = "-=";
         lockBalance = 655262036118918764;
         token = Token(0xfe59cbc1704e89a698571413a81f0de9d8f00c69);
-        xcPlugin = XCPlugin(0xe6d2f62bb9d93ca919a35a32237ce877f132c84d);
+        xcPlugin = XCPlugin(0xa86608f3bd6e65e7ecd2f473735191756abab48e);
     }
 
     function setStatus(uint8 status) onlyAdmin external {

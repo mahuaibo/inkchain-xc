@@ -47,10 +47,10 @@ INK Token Address.
 > fe59cbc1704e89a698571413a81f0de9d8f00c69
 
 XCPlugin Address.
-> e6d2f62bb9d93ca919a35a32237ce877f132c84d
+> a86608f3bd6e65e7ecd2f473735191756abab48e
 
 XC Address.
-> 4143d22694866c8ce31b73a8911bba72ce100867
+> 494feee4a07450102799ffe179ea3d2eca8d1a9b
 
 ### Contract ABI.
 
