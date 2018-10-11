@@ -32,8 +32,8 @@ XC Address.
 
 | Contract | Function | Gaslimit |
 | - | :-: | -: |
-| TAC token | constructor | 600000 |
-| TAC token | approve | 46000 |
+| INK token | constructor | 600000 |
+| INK token | approve | 46000 |
 | XCPlugin | constructor | 2200000 |
 | XCPlugin | voteProposal | 150000(*first time 250000) |
 | XC | constructor | 1400000 |
@@ -72,8 +72,8 @@ XC Address.
 
 | Contract | Function | Gaslimit |
 | - | :-: | -: |
-| TAC token | constructor | 600000 |
-| TAC token | approve | 46000 |
+| INK token | constructor | 600000 |
+| INK token | approve | 46000 |
 | XCPlugin | constructor | 2200000 |
 | XCPlugin | voteProposal | 160000(*first time 250000) |
 | XC | constructor | 1400000 |
